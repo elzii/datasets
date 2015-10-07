@@ -1,0 +1,14 @@
+{
+  "name": "nfl-arrests",
+  "version": "1.0.0",
+  "description": "snapshot from `http://rocky-island-3022.herokuapp.com/query?q=` on 2015-10-05",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.64.0"
+  }
+}

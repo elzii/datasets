@@ -1,9 +1,11 @@
 var $el = {
   body    : $('body'),
+  content : $('#bodyContent'),
+  toc     : $('.toclimit-2')
 }
 
 wrapContentBlocks = function(el, class_name, callback) {
-  $el.body.find(el).each(function (i ,item) { 
+  $el.content.find(el).each(function (i ,item) { 
     var $set = $(this).nextUntil(el).andSelf()
     $set.wrapAll('<div class="'+class_name+'" />')
   })
@@ -28,32 +30,19 @@ addCustomCSS = function(element, styles) {
 }
 
 
-removeTableOfContents = function() {
-  $el.body.find('#toc').remove()
-}
-
 parseContentBlocks = function(element, callback) {
 
   var data = {};
 
-  // Loop each .content
   $.each( $(element), function() {
     var title = $(this).find('h2').text()
     data[title] = [];
-      
-    // Loop each .content-inner
-    $.each( $(element).find('.content-inner'), function (i) {
-
-      var year    = $(this).find('h3').text(),
-          excerpt = $(this).find('h3 + p').text()
-
+    
+    $.each( $(element).find('.content-inner'), function() {
+      var subheader = $(this).find('h3').text()
       data[title].push({
-        year : year,
-        excerpt : excerpt,
-        events : []
+        subsection : subheader
       })
-
-
     })
   })
 
@@ -67,9 +56,7 @@ wrapContentBlocks('h2', 'content', function() {
   // Wrap innner content blocks (subsections)
   wrapContentBlocks('.content h3', 'content-inner', function() {
 
-    removeTableOfContents()
-
-    // Rmove elements
+    // REmove elements
     removeUnwantedElements([
       '#siteSub',
       '.content:nth-of-type(2)',

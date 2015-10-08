@@ -128,8 +128,21 @@ getJSON(options.url, {
   prop    : 'text'
 }, function (data) {
 
-  var html = data.parse.text['*'];
+  var html =  '<!DOCTYPE html><html><head>';
+      html += '<title>NFL Timeline</title>';
+      html +- '<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>';
+      html += '</head>';
+      html += '<body>';
+      html += data.parse.text['*'];
+      html += '</body></html>';
+  // var html = data.parse.text['*'];
 
+  // Write to file
+  fs.writeFile('index.html', html, function (err) {
+    if ( err ) return console.log(err)
+  })
+
+  // Spin up server
   http.createServer(function (req, res) {  
     res.writeHeader(200, {
      'Content-Type': 'text/html',

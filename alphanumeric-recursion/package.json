@@ -1,0 +1,15 @@
+{
+  "name": "alphanumeric-recursion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jslinq": "^1.0.15",
+    "linqjs": "0.0.6"
+  }
+}

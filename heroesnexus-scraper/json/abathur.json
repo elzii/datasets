@@ -1,0 +1,227 @@
+{
+  "name": "Abathur",
+  "role": "Specialist",
+  "title": "Evolution Master",
+  "stats": [
+    {
+      "name": "hp",
+      "value": "685",
+      "per_level": "(+4/LVL)"
+    },
+    {
+      "name": "hpRegen",
+      "value": "1.4257",
+      "per_level": "(+4/LVL)"
+    },
+    {
+      "name": "mana",
+      "value": "0",
+      "per_level": "(+0/LVL)"
+    },
+    {
+      "name": "manaRegen",
+      "value": "0",
+      "per_level": "(+0/LVL)"
+    },
+    {
+      "name": "attackDamage",
+      "value": "26",
+      "per_level": "(+4/LVL)"
+    },
+    {
+      "name": "attackSpeed",
+      "value": "1.43",
+      "per_level": "(+0/LVL)"
+    }
+  ],
+  "abilities": [
+    {
+      "slot": "Q",
+      "name": "Symbiote",
+      "icon": "http://media.heroesnexus.com/avatars/634/345/icon.png"
+    },
+    {
+      "slot": "W",
+      "name": "Toxic Nest",
+      "icon": "http://media.heroesnexus.com/avatars/634/346/icon.png"
+    },
+    {
+      "slot": "R",
+      "name": "Evolve Monstrosity Active",
+      "icon": "http://media.heroesnexus.com/avatars/634/342/icon.png"
+    },
+    {
+      "slot": "R",
+      "name": "Evolve Monstrosity",
+      "icon": "http://media.heroesnexus.com/avatars/634/343/icon.png"
+    },
+    {
+      "slot": "R",
+      "name": "Ultimate Evolution",
+      "icon": "http://media.heroesnexus.com/avatars/634/344/icon.png"
+    },
+    {
+      "slot": "D",
+      "name": "Locust Strain",
+      "icon": "http://media.heroesnexus.com/avatars/634/341/icon.png"
+    }
+  ],
+  "talents": [
+    {
+      "id": 15,
+      "tier": 0,
+      "name": "Pressurized Glands",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/633/215/64/64/icon.png"
+    },
+    {
+      "id": 295,
+      "tier": 0,
+      "name": "Survival Instincts",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/633/205/64/64/icon.png"
+    },
+    {
+      "id": 18,
+      "tier": 0,
+      "name": "Regenerative Microbes",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/633/219/64/64/icon.png"
+    },
+    {
+      "id": 297,
+      "tier": 0,
+      "name": "Envenomed Nest",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/633/211/64/64/icon.png"
+    },
+    {
+      "id": 19,
+      "tier": 1,
+      "name": "Prolific Dispersal",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/633/220/64/64/icon.png"
+    },
+    {
+      "id": 17,
+      "tier": 1,
+      "name": "Ballistospores",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/633/218/64/64/icon.png"
+    },
+    {
+      "id": 900,
+      "tier": 1,
+      "name": "Sustained Carapace",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/633/222/64/64/icon.png"
+    },
+    {
+      "id": 901,
+      "tier": 1,
+      "name": "Adrenal Overload",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/633/223/64/64/icon.png"
+    },
+    {
+      "id": 787,
+      "tier": 2,
+      "name": "Needlespine",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/633/217/64/64/icon.png"
+    },
+    {
+      "id": 299,
+      "tier": 2,
+      "name": "Vile Nest",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/633/221/64/64/icon.png"
+    },
+    {
+      "id": 902,
+      "tier": 2,
+      "name": "Networked Carapace",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/633/224/64/64/icon.png"
+    },
+    {
+      "id": 954,
+      "tier": 2,
+      "name": "Calldown: MULE",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/633/330/64/64/icon.png"
+    },
+    {
+      "id": 5,
+      "tier": 3,
+      "name": "Ultimate Evolution",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/633/207/64/64/icon.png"
+    },
+    {
+      "id": 909,
+      "tier": 3,
+      "name": "Evolve Monstrosity",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/633/230/64/64/icon.png"
+    },
+    {
+      "id": 9,
+      "tier": 4,
+      "name": "Assault Strain",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/633/209/64/64/icon.png"
+    },
+    {
+      "id": 8,
+      "tier": 4,
+      "name": "Bombard Strain",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/633/208/64/64/icon.png"
+    },
+    {
+      "id": 13,
+      "tier": 4,
+      "name": "Spatial Efficiency",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/633/214/64/64/icon.png"
+    },
+    {
+      "id": 953,
+      "tier": 4,
+      "name": "Soma Transference",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/633/225/64/64/icon.png"
+    },
+    {
+      "id": 12,
+      "tier": 5,
+      "name": "Envenomed Spikes",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/633/212/64/64/icon.png"
+    },
+    {
+      "id": 11,
+      "tier": 5,
+      "name": "Adrenaline Boost",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/633/210/64/64/icon.png"
+    },
+    {
+      "id": 653,
+      "tier": 5,
+      "name": "Locust Brood",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/633/206/64/64/icon.png"
+    },
+    {
+      "id": 908,
+      "tier": 5,
+      "name": "Volatile Mutation",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/633/229/64/64/icon.png"
+    },
+    {
+      "id": 905,
+      "tier": 6,
+      "name": "Evolutionary Link",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/633/227/64/64/icon.png"
+    },
+    {
+      "id": 906,
+      "tier": 6,
+      "name": "Evolution Complete",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/633/228/64/64/icon.png"
+    },
+    {
+      "id": 904,
+      "tier": 6,
+      "name": "Hivemind",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/633/226/64/64/icon.png"
+    },
+    {
+      "id": 899,
+      "tier": 6,
+      "name": "Locust Nest",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/633/216/64/64/icon.png"
+    }
+  ]
+}

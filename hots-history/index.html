@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>HotS Graphs</title>
+
+  <!-- Favicon(s) -->
+  <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon" />
+  <link rel="apple-touch-icon" href="assets/img/favicon.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="assets/img/favicon.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="assets/img/favicon.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="assets/img/favicon.png">
+  
+  <!-- Styles: CDN -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css">
+  
+  <!-- Styles: Bower Components -->  
+  <link rel="stylesheet" href="bower_components/Simptip/simptip.min.css">
+
+  <!-- Styles: Application -->
+  <link rel="stylesheet" href="assets/css/style.css">
+
+
+  <!-- Styles: Inline -->
+  <style>
+    #chart--release_history {
+      width:100%;
+      height:500px;
+    }
+  </style>
+
+</head>
+<body>
+  
+
+<div id="header" class="header navbar navbar-default navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="/">
+        <!-- <i class="fa fa-list-ol"></i> -->
+        <img class="navbar-brand__logo" src="assets/img/favicon.png" alt="">
+        <span>HotS Graphs</span>
+      </a>
+    </div>
+
+    <div id="nav--main" class="nav navbar-nav navbar-right">
+
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" type="button" id="dropdown" data-toggle="dropdown">
+          <i class="fa fa-lg fa-bars"></i>
+        </a>
+        <ul class="dropdown-menu">
+          <li><a href="#">Hero Release History</a></li>          
+        </ul>
+      </li>
+
+    </div>
+
+  </div>
+</div>
+
+<div id="loader" style="display:none;">
+  <div class="buffer">
+    <div></div>
+    <div></div>
+    <div></div>
+  </div>
+</div>
+
+
+
+
+<!-- GET / -->
+<div id="view--index" class="view">
+  <div class="container">
+    <div class="row row-padded">
+
+   
+
+      
+      <canvas id="chart--release_history"></canvas>
+
+
+
+
+
+    </div><!-- .row -->
+  </div><!-- .container -->
+</div><!-- .view -->
+
+
+
+<div id="modals">
+  
+  <!-- 
+    - Modal - Example
+    -->
+  <div id="modal--example" class="modal fade">
+    <div class="modal-dialog modal-dialog--nudge-down">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+          <h4 class="modal-title">Example Modal</h4>
+        </div>
+        <div class="modal-body">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+</div>
+
+
+
+
+
+<!-- Javascript: CDN -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js"></script>
+
+<script src="assets/js/app.js"></script>
+
+</body>
+</html>
+</html>

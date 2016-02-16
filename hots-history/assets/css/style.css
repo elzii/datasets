@@ -1,0 +1,68 @@
+/**
+ * Body / Defaults
+ */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  background-color: #fff;
+  margin-bottom: 60px;
+  /*background-color: #f9f9f9;*/
+}
+  body.shows--grid { background-color: #333; }
+  body.shows--list { background-color: #fff; }
+
+
+/**
+ * Typography
+ */
+h3 { font-size: 21px; }
+
+
+#wrap {
+  /*position: relative;*/
+  margin-top: 90px;
+  margin-bottom: 90px;
+}
+
+
+/**
+ * Nav
+ */
+#nav--actions {
+  padding: 8px 15px 0 0;
+}
+
+.navbar-brand {
+  padding: 10px 15px;
+  font-size: 18px;
+}
+.navbar-brand span {
+  display:inline-block;
+  position: relative;
+  margin-left: 5px;
+  top: 1px;
+}
+.navbar-brand__logo {
+  max-height:100%;
+  width: auto;
+}
+
+
+/**
+ * Views / Router
+ */
+.view {
+  /*display: none;*/
+  padding: 75px 0 0 0;
+}
+
+
+
+/**
+ * Modals
+ */
+#modals {
+  display:none;
+}

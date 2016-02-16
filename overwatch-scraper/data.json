@@ -1,0 +1,109 @@
+{
+  "heroes": [
+    {
+      "name": "D.Va",
+      "role": "Tank",
+      "icon": "http://bnetus-a.akamaihd.net/overwatch/static/hero/dva/icon-portrait.0xP02.png?v=58-75;"
+    },
+    {
+      "name": "Mei",
+      "role": "Defense",
+      "icon": "http://bnetus-a.akamaihd.net/overwatch/static/hero/mei/icon-portrait.0RbL5.png?v=58-75;"
+    },
+    {
+      "name": "Genji",
+      "role": "Offense",
+      "icon": "http://bnetus-a.akamaihd.net/overwatch/static/hero/genji/icon-portrait.1E8Fu.png?v=58-75;"
+    },
+    {
+      "name": "Roadhog",
+      "role": "Tank",
+      "icon": "http://bnetus-a.akamaihd.net/overwatch/static/hero/roadhog/icon-portrait.0QlMG.png?v=58-75;"
+    },
+    {
+      "name": "Junkrat",
+      "role": "Defense",
+      "icon": "http://bnetus-a.akamaihd.net/overwatch/static/hero/junkrat/icon-portrait.1f0P3.png?v=58-75;"
+    },
+    {
+      "name": "LÃºcio",
+      "role": "Support",
+      "icon": "http://bnetus-a.akamaihd.net/overwatch/static/hero/lucio/icon-portrait.4Jz9M.png?v=58-75;"
+    },
+    {
+      "name": "Soldier: 76",
+      "role": "Offense",
+      "icon": "http://bnetus-a.akamaihd.net/overwatch/static/hero/soldier-76/icon-portrait.1Ljvj.png?v=58-75;"
+    },
+    {
+      "name": "Zarya",
+      "role": "Tank",
+      "icon": "http://bnetus-a.akamaihd.net/overwatch/static/hero/zarya/icon-portrait.2a926.png?v=58-75;"
+    },
+    {
+      "name": "McCree",
+      "role": "Offense",
+      "icon": "http://bnetus-a.akamaihd.net/overwatch/static/hero/mccree/icon-portrait.2suas.png?v=58-75;"
+    },
+    {
+      "name": "Tracer",
+      "role": "Offense",
+      "icon": "http://bnetus-a.akamaihd.net/overwatch/static/hero/tracer/icon-portrait.2xO5g.png?v=58-75;"
+    },
+    {
+      "name": "Reaper",
+      "role": "Offense",
+      "icon": "http://bnetus-a.akamaihd.net/overwatch/static/hero/reaper/icon-portrait.24wg5.png?v=58-75;"
+    },
+    {
+      "name": "Widowmaker",
+      "role": "Defense",
+      "icon": "http://bnetus-a.akamaihd.net/overwatch/static/hero/widowmaker/icon-portrait.29jKn.png?v=58-75;"
+    },
+    {
+      "name": "Winston",
+      "role": "Tank",
+      "icon": "http://bnetus-a.akamaihd.net/overwatch/static/hero/winston/icon-portrait.0AIzO.png?v=58-75;"
+    },
+    {
+      "name": "Pharah",
+      "role": "Offense",
+      "icon": "http://bnetus-a.akamaihd.net/overwatch/static/hero/pharah/icon-portrait.2aGDM.png?v=58-75;"
+    },
+    {
+      "name": "Reinhardt",
+      "role": "Tank",
+      "icon": "http://bnetus-a.akamaihd.net/overwatch/static/hero/reinhardt/icon-portrait.0s4jW.png?v=58-75;"
+    },
+    {
+      "name": "Symmetra",
+      "role": "Support",
+      "icon": "http://bnetus-a.akamaihd.net/overwatch/static/hero/symmetra/icon-portrait.3sDqH.png?v=58-75;"
+    },
+    {
+      "name": "TorbjÃ¶rn",
+      "role": "Defense",
+      "icon": "http://bnetus-a.akamaihd.net/overwatch/static/hero/torbjorn/icon-portrait.3OBuQ.png?v=58-75;"
+    },
+    {
+      "name": "Bastion",
+      "role": "Defense",
+      "icon": "http://bnetus-a.akamaihd.net/overwatch/static/hero/bastion/icon-portrait.1rBwc.png?v=58-75;"
+    },
+    {
+      "name": "Hanzo",
+      "role": "Defense",
+      "icon": "http://bnetus-a.akamaihd.net/overwatch/static/hero/hanzo/icon-portrait.190aJ.png?v=58-75;"
+    },
+    {
+      "name": "Mercy",
+      "role": "Support",
+      "icon": "http://bnetus-a.akamaihd.net/overwatch/static/hero/mercy/icon-portrait.41J0D.png?v=58-75;"
+    },
+    {
+      "name": "Zenyatta",
+      "role": "Support",
+      "icon": "http://bnetus-a.akamaihd.net/overwatch/static/hero/zenyatta/icon-portrait.03Fcx.png?v=58-75;"
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "heroes" : [
+    {  
+      "hero": "Arthas",
+      "release_date": "Mar 12 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/13171753/"
+    },
+    {
+      "hero": "E.T.C",
+      "release_date": "Mar 12 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/13171753/"
+    },
+    {
+      "hero": "Falstad",
+      "release_date": "Mar 12 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/13171753/"
+    },
+    {
+      "hero": "Gazlowe",
+      "release_date": "Mar 12 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/13171753/"
+    },
+    {
+      "hero": "Illidan",
+      "release_date": "Mar 12 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/13171753/"
+    },
+    {
+      "hero": "Malfurion",
+      "release_date": "Mar 12 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/13171753/"
+    },
+    {
+      "hero": "Muradin",
+      "release_date": "Mar 12 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/13171753/"
+    },
+    {
+      "hero": "Stitches",
+      "release_date": "Mar 12 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/13171753/"
+    },
+    {
+      "hero": "Tyrande",
+      "release_date": "Mar 12 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/13171753/"
+    },
+    {
+      "hero": "Uther",
+      "release_date": "Mar 12 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/13171753/"
+    },
+    {
+      "hero": "Abathur",
+      "release_date": "Mar 12 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/13171752/"
+    },
+    {
+      "hero": "Kerrigan",
+      "release_date": "Mar 12 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/13171752/"
+    },
+    {
+      "hero": "Nova",
+      "release_date": "Mar 12 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/13171752/"
+    },
+    {
+      "hero": "Raynor",
+      "release_date": "Mar 12 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/13171752/"
+    },
+    {
+      "hero": "Sgt Hammer",
+      "release_date": "Mar 12 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/13171752/"
+    },
+    {
+      "hero": "Tassadar",
+      "release_date": "Mar 12 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/13171752/"
+    },
+    {
+      "hero": "Zeratul",
+      "release_date": "Mar 12 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/13171752/"
+    },
+    {
+      "hero": "Diablo",
+      "release_date": "Mar 12 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/13120787"
+    },
+    {
+      "hero": "Nazeebo",
+      "release_date": "Mar 12 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/13120787"
+    },
+    {
+      "hero": "Sonya",
+      "release_date": "Mar 12 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/13120787"
+    },
+    {
+      "hero": "Tyrael",
+      "release_date": "Mar 12 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/13120787"
+    },
+    {
+      "hero": "Valla",
+      "release_date": "Mar 12 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/13120787"
+    },
+    {
+      "hero": "Tychus",
+      "release_date": "Mar 18 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/13235547/"
+    },
+    {
+      "hero": "Li Li",
+      "release_date": "Apr 15 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/13789932"
+    },
+    {
+      "hero": "Brightwing",
+      "release_date": "Apr 15 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/13789932"
+    },
+    {
+      "hero": "Murky",
+      "release_date": "May 22 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/14227686"
+    },
+    {
+      "hero": "Zagara",
+      "release_date": "Jun 25 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/14537490"
+    },
+    {
+      "hero": "Rehgar",
+      "release_date": "Jul 23 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/14742016"
+    },
+    {
+      "hero": "Chen",
+      "release_date": "Sept 10 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/15787795"
+    },
+    {
+      "hero": "Azmodan",
+      "release_date": "Oct 7 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/16081848"
+    },
+    {
+      "hero": "Anub'arak",
+      "release_date": "Oct 7 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/16081848"
+    },
+    {
+      "hero": "Jaina",
+      "release_date": "Dec 2 2014",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/16467431"
+    },
+    {
+      "hero": "Thrall",
+      "release_date": "Jan 13 2015",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/17345414"
+    },
+    {
+      "hero": "The Lost Vikings",
+      "release_date": "Feb 10 2015",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/17906504"
+    },
+    {
+      "hero": "Sylvanas",
+      "release_date": "Mar 24 2015",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/18401781/heroes-closed-beta-patch-notes-march-24-2015-3-24-2015"
+    },
+    {
+      "hero": "Kael'thas",
+      "release_date": "May 12 2015",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/19067455"
+    },
+    {
+      "hero": "Johanna",
+      "release_date": "Jun 2 2015",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/19529833/"
+    },
+    {
+      "hero": "Leoric",
+      "release_date": "Jul 21 2015",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/19803324"
+    },
+    {
+      "hero": "The Butcher",
+      "release_date": "Jul 21 2015",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/19803324"
+    },
+    {
+      "hero": "Kharazim",
+      "release_date": "Aug 18 2015",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/19818499/"
+    },
+    {
+      "hero": "Rexxar",
+      "release_date": "Sep 8 2015",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/19883680/"
+    },
+    {
+      "hero": "Lt Morales",
+      "release_date": "Oct 6 2015",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/19893628/"
+    },
+    {
+      "hero": "Artanis",
+      "release_date": "Oct 20 2015",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/19923883/heroes-of-the-storm-patch-notes-october-20-2015-10-20-2015"
+    },
+    {
+      "hero": "Cho'gall",
+      "release_date": "Nov 17 2015",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/19960704"
+    },
+    {
+      "hero": "Lunara",
+      "release_date": "Dec 15 2015",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/19981657"
+    },
+    {
+      "hero": "Greymane",
+      "release_date": "Jan 12 2016",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/19993879"
+    },
+    {
+      "hero": "Li-Ming",
+      "release_date": "Feb 2 2016",
+      "patch_notes": "http://us.battle.net/heroes/en/blog/19995509"
+    }
+  ]
+}

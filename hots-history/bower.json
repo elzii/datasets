@@ -23,6 +23,9 @@
     "jquery": "*",
     "prefix-free": "gh-pages",
     "wowjs": "*",
-    "Simptip": "simptip#~1.0.4"
+    "Simptip": "simptip#~1.0.4",
+    "Chart.HorizontalBar.js": "chart.horizontalbar#~1.0.3",
+    "bootstrap": "~3.3.6",
+    "Chart.js": "~1.0.2"
   }
 }

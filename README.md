@@ -7,3 +7,10 @@ datasets
 * [NFL Injuries](https://github.com/elzii/datasets/tree/master/nfl-injuries)
 * Misc
   * [Video Game Release Date (Q4 2015)](https://raw.githubusercontent.com/elzii/datasets/master/misc/upcoming-videogames-2015.json)
+
+
+
+
+## Project Ideas
+
+* use datausa.io for some fun local visualization (https://github.com/DataUSA/datausa-api/wiki)

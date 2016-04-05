@@ -13,11 +13,12 @@
   <link rel="apple-touch-icon" sizes="152x152" href="assets/img/favicon.png">
   
   <!-- Styles: CDN -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/css/bootstrap.min.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css">
+  <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/css/bootstrap.min.css"> -->
+  <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css"> -->
   
   <!-- Styles: Bower Components -->  
   <link rel="stylesheet" href="bower_components/Simptip/simptip.min.css">
+  <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
 
   <!-- Styles: Application -->
   <link rel="stylesheet" href="assets/css/style.css">
@@ -25,10 +26,15 @@
 
   <!-- Styles: Inline -->
   <style>
-    #chart--release_history {
-      width:100%;
-      height:500px;
+    .chart {
+      margin-bottom: 30px;
     }
+    .chart--full {
+      width: 100%;
+      height: 550px;
+    }
+    #chart__release_history--bar {}
+    #chart__release_history--line {}
   </style>
 
 </head>
@@ -80,7 +86,7 @@
    
 
       
-      <canvas id="chart--release_history"></canvas>
+      <canvas id="chart__release_history" class="chart chart--full"></canvas>
 
 
 
@@ -118,9 +124,15 @@
 
 
 <!-- Javascript: CDN -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha/js/bootstrap.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js"></script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script> -->
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha/js/bootstrap.min.js"></script> -->
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js"></script> -->
+
+<!-- Javascript: Bower -->
+<script src="bower_components/jquery/dist/jquery.min.js"></script>
+<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="bower_components/Chart.js/Chart.min.js"></script>
+<script src="bower_components/Chart.HorizontalBar.js/Chart.HorizontalBar.js"></script>
 
 <script src="assets/js/app.js"></script>
 

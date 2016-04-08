@@ -1,0 +1,228 @@
+{
+  "name": "Abathur",
+  "role": "Specialist",
+  "title": "Evolution Master",
+  "icon": "http://media.heroesnexus.com/avatars/806/773/icon.png",
+  "stats": [
+    {
+      "name": "hp",
+      "value": "500",
+      "per_level": "(+4/LVL)"
+    },
+    {
+      "name": "hpRegen",
+      "value": "1.4257",
+      "per_level": "(+4/LVL)"
+    },
+    {
+      "name": "mana",
+      "value": "0",
+      "per_level": "(+0/LVL)"
+    },
+    {
+      "name": "manaRegen",
+      "value": "0",
+      "per_level": "(+0/LVL)"
+    },
+    {
+      "name": "attackDamage",
+      "value": "26",
+      "per_level": "(+0/LVL)"
+    },
+    {
+      "name": "attackSpeed",
+      "value": "1.43",
+      "per_level": "(+0/LVL)"
+    }
+  ],
+  "abilities": [
+    {
+      "slot": "Q",
+      "name": "Symbiote",
+      "icon": "http://media.heroesnexus.com/avatars/806/778/icon.png"
+    },
+    {
+      "slot": "W",
+      "name": "Toxic Nest",
+      "icon": "http://media.heroesnexus.com/avatars/806/779/icon.png"
+    },
+    {
+      "slot": "R",
+      "name": "Evolve Monstrosity Active",
+      "icon": "http://media.heroesnexus.com/avatars/806/775/icon.png"
+    },
+    {
+      "slot": "R",
+      "name": "Evolve Monstrosity",
+      "icon": "http://media.heroesnexus.com/avatars/806/776/icon.png"
+    },
+    {
+      "slot": "R",
+      "name": "Ultimate Evolution",
+      "icon": "http://media.heroesnexus.com/avatars/806/777/icon.png"
+    },
+    {
+      "slot": "D",
+      "name": "Locust Strain",
+      "icon": "http://media.heroesnexus.com/avatars/806/774/icon.png"
+    }
+  ],
+  "talents": [
+    {
+      "id": 15,
+      "tier": 0,
+      "name": "Pressurized Glands",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/805/495/64/64/icon.png"
+    },
+    {
+      "id": 295,
+      "tier": 0,
+      "name": "Survival Instincts",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/805/485/64/64/icon.png"
+    },
+    {
+      "id": 18,
+      "tier": 0,
+      "name": "Regenerative Microbes",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/805/499/64/64/icon.png"
+    },
+    {
+      "id": 297,
+      "tier": 0,
+      "name": "Envenomed Nest",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/805/491/64/64/icon.png"
+    },
+    {
+      "id": 19,
+      "tier": 1,
+      "name": "Prolific Dispersal",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/805/500/64/64/icon.png"
+    },
+    {
+      "id": 17,
+      "tier": 1,
+      "name": "Ballistospores",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/805/498/64/64/icon.png"
+    },
+    {
+      "id": 900,
+      "tier": 1,
+      "name": "Sustained Carapace",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/805/502/64/64/icon.png"
+    },
+    {
+      "id": 901,
+      "tier": 1,
+      "name": "Adrenal Overload",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/805/503/64/64/icon.png"
+    },
+    {
+      "id": 787,
+      "tier": 2,
+      "name": "Needlespine",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/805/497/64/64/icon.png"
+    },
+    {
+      "id": 299,
+      "tier": 2,
+      "name": "Vile Nest",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/805/501/64/64/icon.png"
+    },
+    {
+      "id": 902,
+      "tier": 2,
+      "name": "Networked Carapace",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/805/504/64/64/icon.png"
+    },
+    {
+      "id": 954,
+      "tier": 2,
+      "name": "Calldown: MULE",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/805/625/64/64/icon.png"
+    },
+    {
+      "id": 5,
+      "tier": 3,
+      "name": "Ultimate Evolution",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/805/487/64/64/icon.png"
+    },
+    {
+      "id": 909,
+      "tier": 3,
+      "name": "Evolve Monstrosity",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/805/510/64/64/icon.png"
+    },
+    {
+      "id": 9,
+      "tier": 4,
+      "name": "Assault Strain",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/805/489/64/64/icon.png"
+    },
+    {
+      "id": 8,
+      "tier": 4,
+      "name": "Bombard Strain",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/805/488/64/64/icon.png"
+    },
+    {
+      "id": 13,
+      "tier": 4,
+      "name": "Spatial Efficiency",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/805/494/64/64/icon.png"
+    },
+    {
+      "id": 953,
+      "tier": 4,
+      "name": "Soma Transference",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/805/505/64/64/icon.png"
+    },
+    {
+      "id": 12,
+      "tier": 5,
+      "name": "Envenomed Spikes",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/805/492/64/64/icon.png"
+    },
+    {
+      "id": 11,
+      "tier": 5,
+      "name": "Adrenaline Boost",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/805/490/64/64/icon.png"
+    },
+    {
+      "id": 653,
+      "tier": 5,
+      "name": "Locust Brood",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/805/486/64/64/icon.png"
+    },
+    {
+      "id": 908,
+      "tier": 5,
+      "name": "Volatile Mutation",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/805/509/64/64/icon.png"
+    },
+    {
+      "id": 905,
+      "tier": 6,
+      "name": "Evolutionary Link",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/805/507/64/64/icon.png"
+    },
+    {
+      "id": 906,
+      "tier": 6,
+      "name": "Evolution Complete",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/805/508/64/64/icon.png"
+    },
+    {
+      "id": 904,
+      "tier": 6,
+      "name": "Hivemind",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/805/506/64/64/icon.png"
+    },
+    {
+      "id": 899,
+      "tier": 6,
+      "name": "Locust Nest",
+      "icon": "http://media.heroesnexus.com/avatars/thumbnails/805/496/64/64/icon.png"
+    }
+  ]
+}
